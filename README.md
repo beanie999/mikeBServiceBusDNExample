@@ -1,4 +1,4 @@
-# Example Azure Function instrumented by New Relic
+# Example C# Azure Function instrumented by New Relic
 This project provides an example Azure Function instrumented by New Relic taking messages from a Service Bus.
 
 ## How it works
